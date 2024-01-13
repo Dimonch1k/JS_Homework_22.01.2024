@@ -1,1 +1,2 @@
-# JS_Homework_22.01.2024
+There are 10 Tasks in one file index.js.
+I describe there which task talk about.
